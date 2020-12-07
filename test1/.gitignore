@@ -129,4 +129,5 @@ CTestTestfile.cmake
 #我加入的
 *.xml
 *.txt
+*.iml
 
